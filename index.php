@@ -11,5 +11,6 @@
 		<input type = "submit">
 	</form>
 	<p>Изменение файла</p>
+	<p>Изменение файла 2</p>
 </body>
 </html>	
